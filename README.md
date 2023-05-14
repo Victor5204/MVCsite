@@ -1,4 +1,3 @@
 # MVCsite
-creditionals from admin panel<br />
-login: admin<br />
-password: 555
+логин: admin
+пароль: 555
